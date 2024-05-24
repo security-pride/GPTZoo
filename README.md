@@ -13,7 +13,7 @@ GPTZoo aims to provide researchers with a comprehensive resource to study the re
 - **Knowledge files**: Supporting documents and files used during the development of each GPTs instance.
 - **Third-party services**: Information on external services integrated with each GPTs instance.
 
-Due to copyright and ethical considerations, we partially open access to the **instructions**, **knowledge files**, and **third-party services** data. If you require full access for scientific research purposes, please fill out the [Google Form](). We will respond as soon as possible.
+Due to copyright and ethical considerations, we partially open access to the **instructions**, **knowledge files**, and **third-party services** data. If you require full access for scientific research purposes, please fill out the [Google Form](https://forms.gle/Bw49esyTzFTb6EgZ6). We will respond as soon as possible.
 
 ## Getting Started
 
