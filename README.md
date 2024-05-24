@@ -9,11 +9,11 @@ To promote open research and innovation, the GPTZoo dataset will undergo continu
 GPTZoo aims to provide researchers with a comprehensive resource to study the real-world applications, performance, and potential of GPTs. The dataset includes:
 
 - **Metadata**: 21 attributes describing each GPTs instance.
-- **Instructions**: Detailed prompt instructions used to create each GPTs instance..
-- **Knowledge Files**: Supporting documents and files used during the development of each GPTs instance.
-- **Third-Party Services**: Information on external services integrated with each GPTs instance.
+- **Instructions**: Detailed prompt instructions used to create each GPTs instance.
+- **Knowledge files**: Supporting documents and files used during the development of each GPTs instance.
+- **Third-party services**: Information on external services integrated with each GPTs instance.
 
-Due to copyright and ethical considerations, we partially open access to the Instructions, Knowledge Files, and Third-Party Services data. If you require full access for scientific research purposes, please fill out the [Google Form](). We will respond as soon as possible.
+Due to copyright and ethical considerations, we partially open access to the **instructions**, **knowledge files**, and **third-party services** data. If you require full access for scientific research purposes, please fill out the [Google Form](). We will respond as soon as possible.
 
 ## Getting Started
 
@@ -29,8 +29,8 @@ Ensure you have the following prerequisites installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/GPTZoo.git
-cd GPTZoo
+git clone https://github.com/security-pride/GPTZoo-Dataset.git
+cd GPTZoo-Dataset
 ```
 
 Install the required Python packages:
