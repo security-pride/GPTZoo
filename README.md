@@ -70,28 +70,21 @@ python gptzoo.py -analyze --tags "programming" "software guidance" --description
 The dataset is structured as follows:
 
 ```
-GPTZoo/
-│
-├── data/
-│   ├── gpt_instance_1/
-│   │   ├── metadata.json
-│   │   ├── instructions.txt
-│   │   ├── knowledge_files/
-│   │   │   ├── file1.pdf
-│   │   │   └── file2.pdf
-│   │   └── third_party_services.json
-│   ├── gpt_instance_2/
-│   │   ├── metadata.json
-│   │   ├── instructions.txt
-│   │   ├── knowledge_files/
-│   │   │   ├── file1.pdf
-│   │   │   └── file2.pdf
-│   │   └── third_party_services.json
-│   └── ...
-│
-├── gptzoo_cli.py
+├── automated_cli/
+│ ├── pycache/
+│ └── data_retrieval.py
+├── crawling/
+│ ├── crawl_links.py
+│ └── crawl_metadata.py
+├── data_processing/
+│ ├── deduplicate.py
+│ └── handle_json.py
+├── metadata/
+├── result/
+├── gptzoo.py
 ├── requirements.txt
-└── README.md
+├── search_results.xlsx
+└── test.py
 ```
 
 ## Contributing
