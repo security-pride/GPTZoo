@@ -72,29 +72,35 @@ The dataset is structured as follows:
 ```
 GPTZoo
 ├── automated_cli/
-│ ├── pycache/
-│ ├── data_analysis.py
-│ └── data_retrieval.py
+│    ├── pycache/
+│    ├── data_analysis.py
+│    ├── data_retrieval.py
+│    └── help.py
 ├── crawling/
-│ ├── crawl_links.py
-│ ├── crawl_metadata.py
-│ ├── links.txt
-│ └── try_gpt_links/
+│    ├── crawl_links.py
+│    ├── crawl_metadata.py
+│    ├── links.txt
+│    └── try_gpt_links/
 ├── data_processing/
-│ ├── deduplication.py
-│ ├── standardization.py
-│ └── statistical_analysis/
-│ ├── chat_count/
-│ │ ├── chat_count.xlsx
-│ │ └── export_chat_count.py
-│ ├── description/
-│ │ ├── description.py
-│ │ ├── description.txt
-│ │ ├── wordcloud.pdf
-│ │ └── wordcloud.py
-│ ├── rating/
-│ └── tags/
+│    ├── deduplication.py
+│    ├── standardization.py
+│    └── statistical_analysis/
+│         ├── chat_count/
+│         │    ├── chat_count.xlsx
+│         │    └── export_chat_count.py
+│         ├── description/
+│         │    ├── description.py
+│         │    ├── description.txt
+│         │    ├── wordcloud.pdf
+│         │    └── wordcloud.py
+│         ├── rating/
+│         └── tags/
 ├── dataset/
+│    ├── meta_info_0.json
+│    ├── meta_info_1.json
+│    ├── ...
+│    ├── meta_info_41.json
+│    └── meta_info_42.json
 ├── gptzoo.py
 ├── requirements.txt
 └── result/
