@@ -72,7 +72,6 @@ The dataset is structured as follows:
 ```
 GPTZoo
 ├── automated_cli/
-│      ├── pycache/
 │      ├── data_analysis.py
 │      ├── data_retrieval.py
 │      └── help.py
