@@ -1,0 +1,1243 @@
+[
+  {
+    "name": "Code Master",
+    "author": "Marc von Sichart",
+    "rating": "0.0",
+    "rating_count": "N/A",
+    "rating_max": "5",
+    "review_count": 0,
+    "chat_count": 200,
+    "features": [
+      "✓ Browsing",
+      "✓ Data Analysis"
+    ],
+    "description": "Your virtual dev team for software development.",
+    "tags": [
+      "virtual dev team",
+      "app development",
+      "software guidance",
+      "programming",
+      "web guidance"
+    ],
+    "release_date": "January 31,2024",
+    "category": "Programming",
+    "update_info": {
+      "GPT Updated": "2024-01-31T09:23:59+00:00",
+      "Updated ": "2024-04-08T12:21:48+00:00"
+    },
+    "capabilities": [
+      {
+        "capability": "Web Browsing",
+        "function": "Real-Time Access and search the internet for information, articles, and data.",
+        "tools": "Browser"
+      },
+      {
+        "capability": "Code Interpreter / Data Analysis",
+        "function": "Execute Python code for automation, calculations, and data analysis.",
+        "tools": "Python"
+      }
+    ],
+    "share_recipient": {
+      "OpenAI‘s GPT Store": "Public"
+    },
+    "official_rating": "N/A",
+    "number_of_ratings": "N/A",
+    "conversation_starters": [
+      "Build test cases for the following code...",
+      "What's the best way to debug this Python code?",
+      "I need advice on app development strategies.",
+      "How can I optimize the performance of my software?"
+    ],
+    "faqs": [
+      {
+        "question": "What is Code Master?",
+        "answer": "Code Master is a custom ChatGPT and been described as \"Your virtual dev team for software development.\".\nTechnically, it's an advanced ChatGPT unlocked by OpenAI via user customization. You can refer to it as the Code Master AI Agent powered by GPT-4."
+      },
+      {
+        "question": "Is this GPTs free?",
+        "answer": "Currently, this GPTs is not free and is available exclusively to ChatGPT Plus users."
+      },
+      {
+        "question": "Are there any limitations in using Code Master?",
+        "answer": "Yes, besides requiring a ChatGPT Plus membership, if you use the GPT-4 model (with DALL·E, browsing, and data analysis), the limit is 25 'GPTs' messages / 3 hours, More limited than normal 40 GPT4 responses per 3 hours, \n\nThe enterprise version of ChatGPT is,  100 GPT-4 messages per 3 hours."
+      },
+      {
+        "question": "Who can use this custom ChatGPT?",
+        "answer": "Code Master is publicly available in the upcoming OpenAI's GPT Store, making it widely accessible to anyone interested in using this advanced ChatGPT."
+      },
+      {
+        "question": "Who owns Code Master?",
+        "answer": "Code Master is owned by Marc von Sichart, who has also created 25 other GPTs, namely Minimalist Logo Wizard, Influencer Marketing Expert, Newsletter Expert, Fortune Cookie, Character Crafter."
+      },
+      {
+        "question": "Does Code Master have its own knowledge base?",
+        "answer": "no, we found no file uploaded. You can check the function section to see if there are other unique features. If not, this GPTs is just a simple prompt engineering, and its knowledge base is synchronized with the general ChatGPT, latest training up to April 2023."
+      },
+      {
+        "question": "Can I modify/edit this GPTs?",
+        "answer": "No, only Marc von Sichart can edit this GPTs. They can configure and update GPTs through GPT Builder at https://chat.openai.com/gpts/editor/g-hh8dF0HU9. The last modification date of Code Master was 2024-01-31 09:23:59 UTC."
+      },
+      {
+        "question": "Will my conversations with Code Master be recorded?",
+        "answer": "Yes, conversations with Code Master will be recorded. OpenAI keeps these records, and you can share your conversations via a link. Refer to OpenAI's user privacy and data security policies for more information."
+      },
+      {
+        "question": "Will my conversations and uploaded files be used for training Code Master?",
+        "answer": "Yes, if Marc von Sichart selected \"Use conversation data in your GPT to improve our models\" (in the GPTs Configure pages of Additional Settings), it means your conversations will be used for training and will influence this GPT AI agent."
+      }
+    ],
+    "reviews": [],
+    "try_gpt_link": "https://chat.openai.com/g/g-hh8dF0HU9?utm_source=gptsapp.io"
+  },
+  {
+    "name": "Grug Brain Dev",
+    "author": "Dino Omanovic",
+    "rating": "0.0",
+    "rating_count": "N/A",
+    "rating_max": "5",
+    "review_count": 0,
+    "chat_count": 300,
+    "features": [
+      "✓ Browsing",
+      "✓ DALLE•E",
+      "✓ Data Analysis"
+    ],
+    "description": "Focuses on simple, maintainable software development advice.",
+    "tags": [
+      "maintainability",
+      "programming",
+      "software development",
+      "coding",
+      "problem-solving"
+    ],
+    "release_date": "January 16,2024",
+    "category": "Programming",
+    "update_info": {
+      "GPT Updated": "2024-01-16T16:21:31+00:00",
+      "Updated ": "2024-04-12T11:09:52+00:00"
+    },
+    "capabilities": [
+      {
+        "capability": "Web Browsing",
+        "function": "Real-Time Access and search the internet for information, articles, and data.",
+        "tools": "Browser"
+      },
+      {
+        "capability": "DALLE•E",
+        "function": "Generate unique images based on textual descriptions provided.",
+        "tools": "Dalle"
+      },
+      {
+        "capability": "Code Interpreter / Data Analysis",
+        "function": "Execute Python code for automation, calculations, and data analysis.",
+        "tools": "Python"
+      }
+    ],
+    "share_recipient": {
+      "OpenAI‘s GPT Store": "Public"
+    },
+    "official_rating": "4.4",
+    "number_of_ratings": "N/A",
+    "conversation_starters": [
+      "What's your take on modern software development?",
+      "How should I approach problem-solving in coding?",
+      "Can you critique this piece of code?",
+      "What's the best way to learn programming?"
+    ],
+    "faqs": [
+      {
+        "question": "What is Grug Brain Dev?",
+        "answer": "Grug Brain Dev is a custom ChatGPT and been described as \"Focuses on simple, maintainable software development advice.\".\nTechnically, it's an advanced ChatGPT unlocked by OpenAI via user customization. You can refer to it as the Grug Brain Dev AI Agent powered by GPT-4."
+      },
+      {
+        "question": "Is this GPTs free?",
+        "answer": "Currently, this GPTs is not free and is available exclusively to ChatGPT Plus users."
+      },
+      {
+        "question": "Are there any limitations in using Grug Brain Dev?",
+        "answer": "Yes, besides requiring a ChatGPT Plus membership, if you use the GPT-4 model (with DALL·E, browsing, and data analysis), the limit is 25 'GPTs' messages / 3 hours, More limited than normal 40 GPT4 responses per 3 hours, \n\nThe enterprise version of ChatGPT is,  100 GPT-4 messages per 3 hours."
+      },
+      {
+        "question": "Who can use this custom ChatGPT?",
+        "answer": "Grug Brain Dev is publicly available in the upcoming OpenAI's GPT Store, making it widely accessible to anyone interested in using this advanced ChatGPT."
+      },
+      {
+        "question": "Who owns Grug Brain Dev?",
+        "answer": "Grug Brain Dev is created by Dino Omanovic, and we have discovered only this one GPTs created by Dino Omanovic."
+      },
+      {
+        "question": "Does Grug Brain Dev have its own knowledge base?",
+        "answer": "no, we found no file uploaded. You can check the function section to see if there are other unique features. If not, this GPTs is just a simple prompt engineering, and its knowledge base is synchronized with the general ChatGPT, latest training up to April 2023."
+      },
+      {
+        "question": "Can I modify/edit this GPTs?",
+        "answer": "No, only Dino Omanovic can edit this GPTs. They can configure and update GPTs through GPT Builder at https://chat.openai.com/gpts/editor/g-SkdKyJl3t. The last modification date of Grug Brain Dev was 2024-01-16 16:21:31 UTC."
+      },
+      {
+        "question": "Will my conversations with Grug Brain Dev be recorded?",
+        "answer": "Yes, conversations with Grug Brain Dev will be recorded. OpenAI keeps these records, and you can share your conversations via a link. Refer to OpenAI's user privacy and data security policies for more information."
+      },
+      {
+        "question": "Will my conversations and uploaded files be used for training Grug Brain Dev?",
+        "answer": "Yes, if Dino Omanovic selected \"Use conversation data in your GPT to improve our models\" (in the GPTs Configure pages of Additional Settings), it means your conversations will be used for training and will influence this GPT AI agent."
+      }
+    ],
+    "reviews": [],
+    "try_gpt_link": "https://chat.openai.com/g/g-SkdKyJl3t?utm_source=gptsapp.io"
+  },
+  {
+    "name": "Cody",
+    "author": "Bogdan Cristal",
+    "rating": "0.0",
+    "rating_count": "N/A",
+    "rating_max": "5",
+    "review_count": 0,
+    "chat_count": 90,
+    "features": [
+      "✓ Data Analysis",
+      "✓ Browsing",
+      "✓ DALLE•E"
+    ],
+    "description": "A concise, Jarvis-like software development mentor.",
+    "tags": [
+      "programming",
+      "optimization",
+      "software development",
+      "mentor",
+      "apis"
+    ],
+    "release_date": "January 11,2024",
+    "category": "Programming",
+    "update_info": {
+      "GPT Updated": "2024-01-11T21:12:46+00:00",
+      "Updated ": "2024-04-16T23:44:35+00:00"
+    },
+    "capabilities": [
+      {
+        "capability": "Code Interpreter / Data Analysis",
+        "function": "Execute Python code for automation, calculations, and data analysis.",
+        "tools": "Python"
+      },
+      {
+        "capability": "Web Browsing",
+        "function": "Real-Time Access and search the internet for information, articles, and data.",
+        "tools": "Browser"
+      },
+      {
+        "capability": "DALLE•E",
+        "function": "Generate unique images based on textual descriptions provided.",
+        "tools": "Dalle"
+      }
+    ],
+    "share_recipient": {
+      "OpenAI‘s GPT Store": "Public"
+    },
+    "official_rating": "N/A",
+    "number_of_ratings": "N/A",
+    "conversation_starters": [
+      "How do I optimize a database query?",
+      "Can you explain RESTful APIs?",
+      "Tips for managing a software team?",
+      "What's the difference between RPC and GraphQL APIs?"
+    ],
+    "faqs": [
+      {
+        "question": "Is Cody free?",
+        "answer": "Currently, this GPTs is not free and is available exclusively to ChatGPT Plus users."
+      },
+      {
+        "question": "Are there any limitations in using Cody?",
+        "answer": "Yes, besides requiring a ChatGPT Plus membership, if you use the GPT-4 model (with DALL·E, browsing, and data analysis), the limit is 25 'GPTs' messages / 3 hours, More limited than normal 40 GPT4 responses per 3 hours, \n\nThe enterprise version of ChatGPT is,  100 GPT-4 messages per 3 hours."
+      },
+      {
+        "question": "Who can use this custom ChatGPT?",
+        "answer": "Cody is publicly available in the upcoming OpenAI's GPT Store, making it widely accessible to anyone interested in using this advanced ChatGPT."
+      },
+      {
+        "question": "Who owns Cody?",
+        "answer": "Cody is created by Bogdan Cristal, and we have discovered only this one GPTs created by Bogdan Cristal."
+      },
+      {
+        "question": "Does Cody have its own knowledge base?",
+        "answer": "no, we found no file uploaded. You can check the function section to see if there are other unique features. If not, this GPTs is just a simple prompt engineering, and its knowledge base is synchronized with the general ChatGPT, latest training up to April 2023."
+      },
+      {
+        "question": "Can I modify/edit this GPTs?",
+        "answer": "No, only Bogdan Cristal can edit this GPTs. They can configure and update GPTs through GPT Builder at https://chat.openai.com/gpts/editor/g-dNMAjylys. The last modification date of Cody was 2024-01-11 21:12:46 UTC."
+      },
+      {
+        "question": "Will my conversations with Cody be recorded?",
+        "answer": "Yes, conversations with Cody will be recorded. OpenAI keeps these records, and you can share your conversations via a link. Refer to OpenAI's user privacy and data security policies for more information."
+      },
+      {
+        "question": "Will my conversations and uploaded files be used for training Cody?",
+        "answer": "Yes, if Bogdan Cristal selected \"Use conversation data in your GPT to improve our models\" (in the GPTs Configure pages of Additional Settings), it means your conversations will be used for training and will influence this GPT AI agent."
+      }
+    ],
+    "reviews": [],
+    "try_gpt_link": "https://chat.openai.com/g/g-dNMAjylys?utm_source=gptsapp.io"
+  },
+  {
+    "name": "Python Development Team",
+    "author": "pupfish.ai",
+    "rating": "0.0",
+    "rating_count": "N/A",
+    "rating_max": "5",
+    "review_count": 0,
+    "chat_count": 9,
+    "features": [
+      "✓ DALLE•E",
+      "✓ Data Analysis",
+      "✓ Browsing"
+    ],
+    "description": "Your collaborative software development team for Python script development.",
+    "tags": [
+      "reportable",
+      "collaborative team",
+      "script development",
+      "programming",
+      "python development"
+    ],
+    "release_date": "January 23,2024",
+    "category": "Programming",
+    "update_info": {
+      "GPT Updated": "2024-01-23T00:27:51+00:00",
+      "Updated ": "2024-04-15T03:58:50+00:00"
+    },
+    "capabilities": [
+      {
+        "capability": "DALLE•E",
+        "function": "Generate unique images based on textual descriptions provided.",
+        "tools": "Dalle"
+      },
+      {
+        "capability": "Code Interpreter / Data Analysis",
+        "function": "Execute Python code for automation, calculations, and data analysis.",
+        "tools": "Python"
+      },
+      {
+        "capability": "Web Browsing",
+        "function": "Real-Time Access and search the internet for information, articles, and data.",
+        "tools": "Browser"
+      }
+    ],
+    "share_recipient": {
+      "OpenAI‘s GPT Store": "Public"
+    },
+    "official_rating": "N/A",
+    "number_of_ratings": "N/A",
+    "conversation_starters": [
+      "Introduce the team",
+      "Let's define some requirements",
+      "Let's enhance some pre-existing code",
+      "Help me debug this code"
+    ],
+    "faqs": [
+      {
+        "question": "What is Python Development Team?",
+        "answer": "Python Development Team is a custom ChatGPT and been described as \"Your collaborative software development team for Python script development.\".\nTechnically, it's an advanced ChatGPT unlocked by OpenAI via user customization. You can refer to it as the Python Development Team AI Agent powered by GPT-4."
+      },
+      {
+        "question": "Is this GPTs free?",
+        "answer": "Currently, this GPTs is not free and is available exclusively to ChatGPT Plus users."
+      },
+      {
+        "question": "Are there any limitations in using Python Development Team?",
+        "answer": "Yes, besides requiring a ChatGPT Plus membership, if you use the GPT-4 model (with DALL·E, browsing, and data analysis), the limit is 25 'GPTs' messages / 3 hours, More limited than normal 40 GPT4 responses per 3 hours, \n\nThe enterprise version of ChatGPT is,  100 GPT-4 messages per 3 hours."
+      },
+      {
+        "question": "Who can use this custom ChatGPT?",
+        "answer": "Python Development Team is publicly available in the upcoming OpenAI's GPT Store, making it widely accessible to anyone interested in using this advanced ChatGPT."
+      },
+      {
+        "question": "Who owns Python Development Team?",
+        "answer": "Python Development Team is owned by pupfish.ai, who has also created 32 other GPTs, namely GPT Knowledge Optimizer, Tableau Advisor, Cheese Enthusiast, Beer Enthusiast, Chocolate Enthusiast."
+      },
+      {
+        "question": "Does Python Development Team have its own knowledge base?",
+        "answer": "no, we found no file uploaded. You can check the function section to see if there are other unique features. If not, this GPTs is just a simple prompt engineering, and its knowledge base is synchronized with the general ChatGPT, latest training up to April 2023."
+      },
+      {
+        "question": "Can I modify/edit this GPTs?",
+        "answer": "No, only pupfish.ai can edit this GPTs. They can configure and update GPTs through GPT Builder at https://chat.openai.com/gpts/editor/g-5TDpHC9RC. The last modification date of Python Development Team was 2024-01-23 00:27:51 UTC."
+      },
+      {
+        "question": "Will my conversations with Python Development Team be recorded?",
+        "answer": "Yes, conversations with Python Development Team will be recorded. OpenAI keeps these records, and you can share your conversations via a link. Refer to OpenAI's user privacy and data security policies for more information."
+      },
+      {
+        "question": "Will my conversations and uploaded files be used for training Python Development Team?",
+        "answer": "Yes, if pupfish.ai selected \"Use conversation data in your GPT to improve our models\" (in the GPTs Configure pages of Additional Settings), it means your conversations will be used for training and will influence this GPT AI agent."
+      }
+    ],
+    "reviews": [],
+    "try_gpt_link": "https://chat.openai.com/g/g-5TDpHC9RC?utm_source=gptsapp.io"
+  },
+  {
+    "name": "Computer Programming",
+    "author": "ai-gen.co",
+    "rating": "0.0",
+    "rating_count": "N/A",
+    "rating_max": "5",
+    "review_count": 0,
+    "chat_count": 10,
+    "features": [
+      "✓ Browsing",
+      "✓ DALLE•E"
+    ],
+    "description": "Technical and informative guide on programming and software development.",
+    "tags": [
+      "software development",
+      "best practices",
+      "programming",
+      "object-oriented programming",
+      "python"
+    ],
+    "release_date": "January 19,2024",
+    "category": "Programming",
+    "update_info": {
+      "GPT Updated": "2024-01-19T17:33:48+00:00",
+      "Updated ": "2024-04-15T15:18:41+00:00"
+    },
+    "capabilities": [
+      {
+        "capability": "Web Browsing",
+        "function": "Real-Time Access and search the internet for information, articles, and data.",
+        "tools": "Browser"
+      },
+      {
+        "capability": "DALLE•E",
+        "function": "Generate unique images based on textual descriptions provided.",
+        "tools": "Dalle"
+      }
+    ],
+    "share_recipient": {
+      "OpenAI‘s GPT Store": "Public"
+    },
+    "official_rating": "N/A",
+    "number_of_ratings": "N/A",
+    "conversation_starters": [
+      "Explain the concept of object-oriented programming.",
+      "How do I start with Python programming?",
+      "What are the best practices in software development?",
+      "Describe the differences between Java and C#."
+    ],
+    "faqs": [
+      {
+        "question": "What is Computer Programming?",
+        "answer": "Computer Programming is a custom ChatGPT and been described as \"Technical and informative guide on programming and software development.\".\nTechnically, it's an advanced ChatGPT unlocked by OpenAI via user customization. You can refer to it as the Computer Programming AI Agent powered by GPT-4."
+      },
+      {
+        "question": "Is this GPTs free?",
+        "answer": "Currently, this GPTs is not free and is available exclusively to ChatGPT Plus users."
+      },
+      {
+        "question": "Are there any limitations in using Computer Programming?",
+        "answer": "Yes, besides requiring a ChatGPT Plus membership, if you use the GPT-4 model (with DALL·E, browsing, and data analysis), the limit is 25 'GPTs' messages / 3 hours, More limited than normal 40 GPT4 responses per 3 hours, \n\nThe enterprise version of ChatGPT is,  100 GPT-4 messages per 3 hours."
+      },
+      {
+        "question": "Who can use this custom ChatGPT?",
+        "answer": "Computer Programming is publicly available in the upcoming OpenAI's GPT Store, making it widely accessible to anyone interested in using this advanced ChatGPT."
+      },
+      {
+        "question": "Who owns Computer Programming?",
+        "answer": "Computer Programming is owned by ai-gen.co, who has also created 4043 other GPTs, namely Purse, Writing, Sleep, Ancestry, Jungle."
+      },
+      {
+        "question": "Does Computer Programming have its own knowledge base?",
+        "answer": "no, we found no file uploaded. You can check the function section to see if there are other unique features. If not, this GPTs is just a simple prompt engineering, and its knowledge base is synchronized with the general ChatGPT, latest training up to April 2023."
+      },
+      {
+        "question": "Can I modify/edit this GPTs?",
+        "answer": "No, only ai-gen.co can edit this GPTs. They can configure and update GPTs through GPT Builder at https://chat.openai.com/gpts/editor/g-IwHFtQQEI. The last modification date of Computer Programming was 2024-01-19 17:33:48 UTC."
+      },
+      {
+        "question": "Will my conversations with Computer Programming be recorded?",
+        "answer": "Yes, conversations with Computer Programming will be recorded. OpenAI keeps these records, and you can share your conversations via a link. Refer to OpenAI's user privacy and data security policies for more information."
+      },
+      {
+        "question": "Will my conversations and uploaded files be used for training Computer Programming?",
+        "answer": "Yes, if ai-gen.co selected \"Use conversation data in your GPT to improve our models\" (in the GPTs Configure pages of Additional Settings), it means your conversations will be used for training and will influence this GPT AI agent."
+      }
+    ],
+    "reviews": [],
+    "try_gpt_link": "https://chat.openai.com/g/g-IwHFtQQEI?utm_source=gptsapp.io"
+  },
+  {
+    "name": "Code Teaching Assistant",
+    "author": "Muxammad Sobirov",
+    "rating": "0.0",
+    "rating_count": "N/A",
+    "rating_max": "5",
+    "review_count": 0,
+    "chat_count": 20,
+    "features": [
+      "✓ Browsing",
+      "✓ DALLE•E"
+    ],
+    "description": "A helpful assistant for creating software development teaching materials.",
+    "tags": [
+      "programming",
+      "teaching assistant",
+      "software development",
+      "lesson planning",
+      "education"
+    ],
+    "release_date": "December 28,2023",
+    "category": "Other",
+    "update_info": {
+      "GPT Updated": "2023-12-28T09:27:12+00:00",
+      "Updated ": "2024-04-17T07:08:51+00:00"
+    },
+    "capabilities": [
+      {
+        "capability": "Web Browsing",
+        "function": "Real-Time Access and search the internet for information, articles, and data.",
+        "tools": "Browser"
+      },
+      {
+        "capability": "DALLE•E",
+        "function": "Generate unique images based on textual descriptions provided.",
+        "tools": "Dalle"
+      }
+    ],
+    "share_recipient": {
+      "OpenAI‘s GPT Store": "Public"
+    },
+    "official_rating": "N/A",
+    "number_of_ratings": "N/A",
+    "conversation_starters": [
+      "Suggest a lesson plan for teaching JavaScript.",
+      "Create a homework assignment on data structures.",
+      "How should I explain recursion?",
+      "Generate a study plan for my students."
+    ],
+    "faqs": [
+      {
+        "question": "Is Code Teaching Assistant free?",
+        "answer": "Currently, this GPTs is not free and is available exclusively to ChatGPT Plus users."
+      },
+      {
+        "question": "Are there any limitations in using Code Teaching Assistant?",
+        "answer": "Yes, besides requiring a ChatGPT Plus membership, if you use the GPT-4 model (with DALL·E, browsing, and data analysis), the limit is 25 'GPTs' messages / 3 hours, More limited than normal 40 GPT4 responses per 3 hours, \n\nThe enterprise version of ChatGPT is,  100 GPT-4 messages per 3 hours."
+      },
+      {
+        "question": "Who can use this custom ChatGPT?",
+        "answer": "Code Teaching Assistant is publicly available in the upcoming OpenAI's GPT Store, making it widely accessible to anyone interested in using this advanced ChatGPT."
+      },
+      {
+        "question": "Who owns Code Teaching Assistant?",
+        "answer": "Code Teaching Assistant is owned by Muxammad Sobirov, who has also created 7 other GPTs, namely UX GURU, Elliot, Coding Bro, DDD Sage, Quiz Master."
+      },
+      {
+        "question": "Does Code Teaching Assistant have its own knowledge base?",
+        "answer": "no, we found no file uploaded. You can check the function section to see if there are other unique features. If not, this GPTs is just a simple prompt engineering, and its knowledge base is synchronized with the general ChatGPT, latest training up to April 2023."
+      },
+      {
+        "question": "Can I modify/edit this GPTs?",
+        "answer": "No, only Muxammad Sobirov can edit this GPTs. They can configure and update GPTs through GPT Builder at https://chat.openai.com/gpts/editor/g-7XiVWKQe0. The last modification date of Code Teaching Assistant was 2023-12-28 09:27:12 UTC."
+      },
+      {
+        "question": "Will my conversations with Code Teaching Assistant be recorded?",
+        "answer": "Yes, conversations with Code Teaching Assistant will be recorded. OpenAI keeps these records, and you can share your conversations via a link. Refer to OpenAI's user privacy and data security policies for more information."
+      },
+      {
+        "question": "Will my conversations and uploaded files be used for training Code Teaching Assistant?",
+        "answer": "Yes, if Muxammad Sobirov selected \"Use conversation data in your GPT to improve our models\" (in the GPTs Configure pages of Additional Settings), it means your conversations will be used for training and will influence this GPT AI agent."
+      }
+    ],
+    "reviews": [],
+    "try_gpt_link": "https://chat.openai.com/g/g-7XiVWKQe0?utm_source=gptsapp.io"
+  },
+  {
+    "name": "CoderGPT",
+    "author": "Emre Can Serteli",
+    "rating": "0.0",
+    "rating_count": "N/A",
+    "rating_max": "5",
+    "review_count": 0,
+    "chat_count": 100,
+    "features": [
+      "✓ DALLE•E",
+      "✓ Browsing",
+      "✓ Data Analysis"
+    ],
+    "description": "General purpose software development assistant",
+    "tags": [
+      "programming",
+      "software development",
+      "assistant",
+      "general purpose",
+      "productivity"
+    ],
+    "release_date": "February 18,2024",
+    "category": "Programming",
+    "update_info": {
+      "GPT Updated": "2024-02-18T16:54:37+00:00",
+      "Updated ": "2024-04-19T00:08:31+00:00"
+    },
+    "capabilities": [
+      {
+        "capability": "DALLE•E",
+        "function": "Generate unique images based on textual descriptions provided.",
+        "tools": "Dalle"
+      },
+      {
+        "capability": "Web Browsing",
+        "function": "Real-Time Access and search the internet for information, articles, and data.",
+        "tools": "Browser"
+      },
+      {
+        "capability": "Code Interpreter / Data Analysis",
+        "function": "Execute Python code for automation, calculations, and data analysis.",
+        "tools": "Python"
+      }
+    ],
+    "share_recipient": {
+      "OpenAI‘s GPT Store": "Public"
+    },
+    "official_rating": "N/A",
+    "number_of_ratings": "N/A",
+    "conversation_starters": [],
+    "faqs": [
+      {
+        "question": "Is CoderGPT free?",
+        "answer": "Currently, this GPTs is not free and is available exclusively to ChatGPT Plus users."
+      },
+      {
+        "question": "Are there any limitations in using CoderGPT?",
+        "answer": "Yes, besides requiring a ChatGPT Plus membership, if you use the GPT-4 model (with DALL·E, browsing, and data analysis), the limit is 25 'GPTs' messages / 3 hours, More limited than normal 40 GPT4 responses per 3 hours, \n\nThe enterprise version of ChatGPT is,  100 GPT-4 messages per 3 hours."
+      },
+      {
+        "question": "Who can use this custom ChatGPT?",
+        "answer": "CoderGPT is publicly available in the upcoming OpenAI's GPT Store, making it widely accessible to anyone interested in using this advanced ChatGPT."
+      },
+      {
+        "question": "Who owns CoderGPT?",
+        "answer": "CoderGPT is owned by Emre Can Serteli, who has also created 8 other GPTs, namely SageGPT, ReqAnalystGPT, InterrogatorGPT, ProjectManagerGPT."
+      },
+      {
+        "question": "Does CoderGPT have its own knowledge base?",
+        "answer": "no, we found no file uploaded. You can check the function section to see if there are other unique features. If not, this GPTs is just a simple prompt engineering, and its knowledge base is synchronized with the general ChatGPT, latest training up to April 2023."
+      },
+      {
+        "question": "Can I modify/edit this GPTs?",
+        "answer": "No, only Emre Can Serteli can edit this GPTs. They can configure and update GPTs through GPT Builder at https://chat.openai.com/gpts/editor/g-zfNQ2d7eQ. The last modification date of CoderGPT was 2024-02-18 16:54:37 UTC."
+      },
+      {
+        "question": "Will my conversations with CoderGPT be recorded?",
+        "answer": "Yes, conversations with CoderGPT will be recorded. OpenAI keeps these records, and you can share your conversations via a link. Refer to OpenAI's user privacy and data security policies for more information."
+      },
+      {
+        "question": "Will my conversations and uploaded files be used for training CoderGPT?",
+        "answer": "Yes, if Emre Can Serteli selected \"Use conversation data in your GPT to improve our models\" (in the GPTs Configure pages of Additional Settings), it means your conversations will be used for training and will influence this GPT AI agent."
+      }
+    ],
+    "reviews": [],
+    "try_gpt_link": "https://chat.openai.com/g/g-zfNQ2d7eQ?utm_source=gptsapp.io"
+  },
+  {
+    "name": "Code Tutor Replica",
+    "author": "YuzuPay",
+    "rating": "0.0",
+    "rating_count": "N/A",
+    "rating_max": "5",
+    "review_count": 0,
+    "chat_count": 100,
+    "features": [
+      "✓ Browsing",
+      "✓ Data Analysis",
+      "✓ DALLE•E"
+    ],
+    "description": "Your friendly guide in software development and coding education, especially for beginners.",
+    "tags": [
+      "beginners",
+      "coding education",
+      "software development",
+      "community",
+      "programming"
+    ],
+    "release_date": "January 14,2024",
+    "category": "Programming",
+    "update_info": {
+      "GPT Updated": "2024-01-14T03:15:47+00:00",
+      "Updated ": "2024-04-19T11:30:30+00:00"
+    },
+    "capabilities": [
+      {
+        "capability": "Web Browsing",
+        "function": "Real-Time Access and search the internet for information, articles, and data.",
+        "tools": "Browser"
+      },
+      {
+        "capability": "Code Interpreter / Data Analysis",
+        "function": "Execute Python code for automation, calculations, and data analysis.",
+        "tools": "Python"
+      },
+      {
+        "capability": "DALLE•E",
+        "function": "Generate unique images based on textual descriptions provided.",
+        "tools": "Dalle"
+      }
+    ],
+    "share_recipient": {
+      "OpenAI‘s GPT Store": "Public"
+    },
+    "official_rating": "N/A",
+    "number_of_ratings": "N/A",
+    "conversation_starters": [
+      "How do I start learning Python?",
+      "What's the best way to debug code?",
+      "Can you explain object-oriented programming?",
+      "What are the basics of web development?"
+    ],
+    "faqs": [
+      {
+        "question": "Is Code Tutor Replica free?",
+        "answer": "Currently, this GPTs is not free and is available exclusively to ChatGPT Plus users."
+      },
+      {
+        "question": "Are there any limitations in using Code Tutor Replica?",
+        "answer": "Yes, besides requiring a ChatGPT Plus membership, if you use the GPT-4 model (with DALL·E, browsing, and data analysis), the limit is 25 'GPTs' messages / 3 hours, More limited than normal 40 GPT4 responses per 3 hours, \n\nThe enterprise version of ChatGPT is,  100 GPT-4 messages per 3 hours."
+      },
+      {
+        "question": "Who can use this custom ChatGPT?",
+        "answer": "Code Tutor Replica is publicly available in the upcoming OpenAI's GPT Store, making it widely accessible to anyone interested in using this advanced ChatGPT."
+      },
+      {
+        "question": "Who owns Code Tutor Replica?",
+        "answer": "Code Tutor Replica is owned by YuzuPay, who has also created 4 other GPTs, namely 中国时政评论员, Code Tutor Replica (Children Version), Math Buddy."
+      },
+      {
+        "question": "Does Code Tutor Replica have its own knowledge base?",
+        "answer": "no, we found no file uploaded. You can check the function section to see if there are other unique features. If not, this GPTs is just a simple prompt engineering, and its knowledge base is synchronized with the general ChatGPT, latest training up to April 2023."
+      },
+      {
+        "question": "Can I modify/edit this GPTs?",
+        "answer": "No, only YuzuPay can edit this GPTs. They can configure and update GPTs through GPT Builder at https://chat.openai.com/gpts/editor/g-vAAGLDwBZ. The last modification date of Code Tutor Replica was 2024-01-14 03:15:47 UTC."
+      },
+      {
+        "question": "Will my conversations with Code Tutor Replica be recorded?",
+        "answer": "Yes, conversations with Code Tutor Replica will be recorded. OpenAI keeps these records, and you can share your conversations via a link. Refer to OpenAI's user privacy and data security policies for more information."
+      },
+      {
+        "question": "Will my conversations and uploaded files be used for training Code Tutor Replica?",
+        "answer": "Yes, if YuzuPay selected \"Use conversation data in your GPT to improve our models\" (in the GPTs Configure pages of Additional Settings), it means your conversations will be used for training and will influence this GPT AI agent."
+      }
+    ],
+    "reviews": [],
+    "try_gpt_link": "https://chat.openai.com/g/g-vAAGLDwBZ?utm_source=gptsapp.io"
+  },
+  {
+    "name": "Software Developer",
+    "author": "ai-gen.co",
+    "rating": "0.0",
+    "rating_count": "N/A",
+    "rating_max": "5",
+    "review_count": 0,
+    "chat_count": 30,
+    "features": [
+      "✓ Browsing",
+      "✓ DALLE•E"
+    ],
+    "description": "A technical and informative guide on software development and programming.",
+    "tags": [
+      "programming",
+      "api design",
+      "software development",
+      "object-oriented programming",
+      "multithreading"
+    ],
+    "release_date": "January 11,2024",
+    "category": "Programming",
+    "update_info": {
+      "GPT Updated": "2024-01-11T20:54:40+00:00",
+      "Updated ": "2024-04-16T17:31:39+00:00"
+    },
+    "capabilities": [
+      {
+        "capability": "Web Browsing",
+        "function": "Real-Time Access and search the internet for information, articles, and data.",
+        "tools": "Browser"
+      },
+      {
+        "capability": "DALLE•E",
+        "function": "Generate unique images based on textual descriptions provided.",
+        "tools": "Dalle"
+      }
+    ],
+    "share_recipient": {
+      "OpenAI‘s GPT Store": "Public"
+    },
+    "official_rating": "N/A",
+    "number_of_ratings": "N/A",
+    "conversation_starters": [
+      "Explain the concept of object-oriented programming.",
+      "How do I debug a Python script?",
+      "What are the best practices for API design?",
+      "Can you help me understand multithreading in Java?"
+    ],
+    "faqs": [
+      {
+        "question": "Is Software Developer free?",
+        "answer": "Currently, this GPTs is not free and is available exclusively to ChatGPT Plus users."
+      },
+      {
+        "question": "Are there any limitations in using Software Developer?",
+        "answer": "Yes, besides requiring a ChatGPT Plus membership, if you use the GPT-4 model (with DALL·E, browsing, and data analysis), the limit is 25 'GPTs' messages / 3 hours, More limited than normal 40 GPT4 responses per 3 hours, \n\nThe enterprise version of ChatGPT is,  100 GPT-4 messages per 3 hours."
+      },
+      {
+        "question": "Who can use this custom ChatGPT?",
+        "answer": "Software Developer is publicly available in the upcoming OpenAI's GPT Store, making it widely accessible to anyone interested in using this advanced ChatGPT."
+      },
+      {
+        "question": "Who owns Software Developer?",
+        "answer": "Software Developer is owned by ai-gen.co, who has also created 4045 other GPTs, namely Baby Clothing, High School Football, Writing, Foreign Market, Cancer."
+      },
+      {
+        "question": "Does Software Developer have its own knowledge base?",
+        "answer": "no, we found no file uploaded. You can check the function section to see if there are other unique features. If not, this GPTs is just a simple prompt engineering, and its knowledge base is synchronized with the general ChatGPT, latest training up to April 2023."
+      },
+      {
+        "question": "Can I modify/edit this GPTs?",
+        "answer": "No, only ai-gen.co can edit this GPTs. They can configure and update GPTs through GPT Builder at https://chat.openai.com/gpts/editor/g-OOAtWWtnk. The last modification date of Software Developer was 2024-01-11 20:54:40 UTC."
+      },
+      {
+        "question": "Will my conversations with Software Developer be recorded?",
+        "answer": "Yes, conversations with Software Developer will be recorded. OpenAI keeps these records, and you can share your conversations via a link. Refer to OpenAI's user privacy and data security policies for more information."
+      },
+      {
+        "question": "Will my conversations and uploaded files be used for training Software Developer?",
+        "answer": "Yes, if ai-gen.co selected \"Use conversation data in your GPT to improve our models\" (in the GPTs Configure pages of Additional Settings), it means your conversations will be used for training and will influence this GPT AI agent."
+      }
+    ],
+    "reviews": [],
+    "try_gpt_link": "https://chat.openai.com/g/g-OOAtWWtnk?utm_source=gptsapp.io"
+  },
+  {
+    "name": "Software Engineering Assistant",
+    "author": "Tony Erlandsen",
+    "rating": "0.0",
+    "rating_count": "N/A",
+    "rating_max": "5",
+    "review_count": 0,
+    "chat_count": 10,
+    "features": [
+      "✓ Data Analysis",
+      "✓ Browsing",
+      "✓ DALLE•E"
+    ],
+    "description": "Specialist in software development",
+    "tags": [
+      "virtual team lead",
+      "software engineering",
+      "management tasks",
+      "code problems",
+      "programming"
+    ],
+    "release_date": "February 22,2024",
+    "category": "Programming",
+    "update_info": {
+      "GPT Updated": "2024-02-22T10:39:12+00:00",
+      "Updated ": "2024-04-19T20:52:34+00:00"
+    },
+    "capabilities": [
+      {
+        "capability": "Code Interpreter / Data Analysis",
+        "function": "Execute Python code for automation, calculations, and data analysis.",
+        "tools": "Python"
+      },
+      {
+        "capability": "Web Browsing",
+        "function": "Real-Time Access and search the internet for information, articles, and data.",
+        "tools": "Browser"
+      },
+      {
+        "capability": "DALLE•E",
+        "function": "Generate unique images based on textual descriptions provided.",
+        "tools": "Dalle"
+      }
+    ],
+    "share_recipient": {
+      "OpenAI‘s GPT Store": "Public"
+    },
+    "official_rating": "N/A",
+    "number_of_ratings": "N/A",
+    "conversation_starters": [
+      "How do I implement a new feature?",
+      "Can you compare these two frameworks?",
+      "What are the best practices for code reviews?",
+      "Explain the pros and cons of microservices architecture."
+    ],
+    "faqs": [
+      {
+        "question": "Is Software Engineering Assistant free?",
+        "answer": "Currently, this GPTs is not free and is available exclusively to ChatGPT Plus users."
+      },
+      {
+        "question": "Are there any limitations in using Software Engineering Assistant?",
+        "answer": "Yes, besides requiring a ChatGPT Plus membership, if you use the GPT-4 model (with DALL·E, browsing, and data analysis), the limit is 25 'GPTs' messages / 3 hours, More limited than normal 40 GPT4 responses per 3 hours, \n\nThe enterprise version of ChatGPT is,  100 GPT-4 messages per 3 hours."
+      },
+      {
+        "question": "Who can use this custom ChatGPT?",
+        "answer": "Software Engineering Assistant is publicly available in the upcoming OpenAI's GPT Store, making it widely accessible to anyone interested in using this advanced ChatGPT."
+      },
+      {
+        "question": "Who owns Software Engineering Assistant?",
+        "answer": "Software Engineering Assistant is created by Tony Erlandsen, and we have discovered only this one GPTs created by Tony Erlandsen."
+      },
+      {
+        "question": "Does Software Engineering Assistant have its own knowledge base?",
+        "answer": "no, we found no file uploaded. You can check the function section to see if there are other unique features. If not, this GPTs is just a simple prompt engineering, and its knowledge base is synchronized with the general ChatGPT, latest training up to April 2023."
+      },
+      {
+        "question": "Can I modify/edit this GPTs?",
+        "answer": "No, only Tony Erlandsen can edit this GPTs. They can configure and update GPTs through GPT Builder at https://chat.openai.com/gpts/editor/g-w1H0vQQH8. The last modification date of Software Engineering Assistant was 2024-02-22 10:39:12 UTC."
+      },
+      {
+        "question": "Will my conversations with Software Engineering Assistant be recorded?",
+        "answer": "Yes, conversations with Software Engineering Assistant will be recorded. OpenAI keeps these records, and you can share your conversations via a link. Refer to OpenAI's user privacy and data security policies for more information."
+      },
+      {
+        "question": "Will my conversations and uploaded files be used for training Software Engineering Assistant?",
+        "answer": "Yes, if Tony Erlandsen selected \"Use conversation data in your GPT to improve our models\" (in the GPTs Configure pages of Additional Settings), it means your conversations will be used for training and will influence this GPT AI agent."
+      }
+    ],
+    "reviews": [],
+    "try_gpt_link": "https://chat.openai.com/g/g-w1H0vQQH8?utm_source=gptsapp.io"
+  },
+  {
+    "name": "Grimoire of Code",
+    "author": "ben",
+    "rating": "0.0",
+    "rating_count": "N/A",
+    "rating_max": "5",
+    "review_count": 0,
+    "chat_count": 20,
+    "features": [],
+    "description": "Expert in programming and software development.",
+    "tags": [
+      "expert",
+      "programming",
+      "comprehensive assistance",
+      "coding skills",
+      "software development"
+    ],
+    "release_date": "December 06,2023",
+    "category": "",
+    "update_info": {
+      "GPT Updated": "2023-12-06T14:09:36+00:00",
+      "Updated ": "2024-04-19T19:21:44+00:00"
+    },
+    "capabilities": [],
+    "share_recipient": {
+      "OpenAI‘s GPT Store": "Public"
+    },
+    "official_rating": "N/A",
+    "number_of_ratings": "N/A",
+    "conversation_starters": [
+      "Can you help me understand this error in my code?",
+      "What's the best practice for implementing this algorithm?",
+      "How can I optimize this SQL query?",
+      "Explain how this programming concept works."
+    ],
+    "faqs": [
+      {
+        "question": "Is Grimoire of Code free?",
+        "answer": "Currently, this GPTs is not free and is available exclusively to ChatGPT Plus users."
+      },
+      {
+        "question": "Are there any limitations in using Grimoire of Code?",
+        "answer": "Yes, besides requiring a ChatGPT Plus membership, if you use the GPT-4 model (with DALL·E, browsing, and data analysis), the limit is 25 'GPTs' messages / 3 hours, More limited than normal 40 GPT4 responses per 3 hours, \n\nThe enterprise version of ChatGPT is,  100 GPT-4 messages per 3 hours."
+      },
+      {
+        "question": "Who can use this custom ChatGPT?",
+        "answer": "Grimoire of Code is accessible exclusively to individuals with a specific link shared by ben, ensuring targeted and controlled usage."
+      },
+      {
+        "question": "Who owns Grimoire of Code?",
+        "answer": "Grimoire of Code is owned by ben, who has also created 13 other GPTs, namely Script Coder, Harmony Promoter, Idea Expander, Code Architect, Lyric Style Interpreter."
+      },
+      {
+        "question": "Does Grimoire of Code have its own knowledge base?",
+        "answer": "yes, we have found that ben uploaded 5 files. For specific information, you can check Knowledge."
+      },
+      {
+        "question": "Can I modify/edit this GPTs?",
+        "answer": "No, only ben can edit this GPTs. They can configure and update GPTs through GPT Builder at https://chat.openai.com/gpts/editor/g-LTScsulJy. The last modification date of Grimoire of Code was 2023-12-06 14:09:36 UTC."
+      },
+      {
+        "question": "Will my conversations with Grimoire of Code be recorded?",
+        "answer": "Yes, conversations with Grimoire of Code will be recorded. OpenAI keeps these records, and you can share your conversations via a link. Refer to OpenAI's user privacy and data security policies for more information."
+      },
+      {
+        "question": "Will my conversations and uploaded files be used for training Grimoire of Code?",
+        "answer": "Yes, if ben selected \"Use conversation data in your GPT to improve our models\" (in the GPTs Configure pages of Additional Settings), it means your conversations will be used for training and will influence this GPT AI agent."
+      }
+    ],
+    "reviews": [],
+    "try_gpt_link": "https://chat.openai.com/g/g-LTScsulJy?utm_source=gptsapp.io"
+  },
+  {
+    "name": "DORA the (Metrics) Explorer",
+    "author": "PlusNarrative (Pty) Ltd",
+    "rating": "0.0",
+    "rating_count": "N/A",
+    "rating_max": "5",
+    "review_count": 0,
+    "chat_count": 10,
+    "features": [
+      "✓ Browsing"
+    ],
+    "description": "A software development analyst specializing in DORA metrics analysis.",
+    "tags": [
+      "dora metrics",
+      "programming",
+      "software development",
+      "github repos",
+      "analysis"
+    ],
+    "release_date": "January 11,2024",
+    "category": "Programming",
+    "update_info": {
+      "GPT Updated": "2024-01-11T12:39:58+00:00",
+      "Updated ": "2024-04-19T20:08:50+00:00"
+    },
+    "capabilities": [
+      {
+        "capability": "Web Browsing",
+        "function": "Real-Time Access and search the internet for information, articles, and data.",
+        "tools": "Browser"
+      }
+    ],
+    "share_recipient": {
+      "OpenAI‘s GPT Store": "Public"
+    },
+    "official_rating": "N/A",
+    "number_of_ratings": "N/A",
+    "conversation_starters": [
+      "What are DORA metrics?",
+      "What do my DORA metrics indicate?",
+      "Help me improve DORA metrics?",
+      "Which tools can I use to measure my DORA metrics?"
+    ],
+    "faqs": [
+      {
+        "question": "Is DORA the (Metrics) Explorer free?",
+        "answer": "Currently, this GPTs is not free and is available exclusively to ChatGPT Plus users."
+      },
+      {
+        "question": "Are there any limitations in using DORA the (Metrics) Explorer?",
+        "answer": "Yes, besides requiring a ChatGPT Plus membership, if you use the GPT-4 model (with DALL·E, browsing, and data analysis), the limit is 25 'GPTs' messages / 3 hours, More limited than normal 40 GPT4 responses per 3 hours, \n\nThe enterprise version of ChatGPT is,  100 GPT-4 messages per 3 hours."
+      },
+      {
+        "question": "Who can use this custom ChatGPT?",
+        "answer": "DORA the (Metrics) Explorer is publicly available in the upcoming OpenAI's GPT Store, making it widely accessible to anyone interested in using this advanced ChatGPT."
+      },
+      {
+        "question": "Who owns DORA the (Metrics) Explorer?",
+        "answer": "DORA the (Metrics) Explorer is created by PlusNarrative (Pty) Ltd, and we have discovered only this one GPTs created by PlusNarrative (Pty) Ltd."
+      },
+      {
+        "question": "Does DORA the (Metrics) Explorer have its own knowledge base?",
+        "answer": "no, we found no file uploaded. You can check the function section to see if there are other unique features. If not, this GPTs is just a simple prompt engineering, and its knowledge base is synchronized with the general ChatGPT, latest training up to April 2023."
+      },
+      {
+        "question": "Can I modify/edit this GPTs?",
+        "answer": "No, only PlusNarrative (Pty) Ltd can edit this GPTs. They can configure and update GPTs through GPT Builder at https://chat.openai.com/gpts/editor/g-7nKpKyYPb. The last modification date of DORA the (Metrics) Explorer was 2024-01-11 12:39:58 UTC."
+      },
+      {
+        "question": "Will my conversations with DORA the (Metrics) Explorer be recorded?",
+        "answer": "Yes, conversations with DORA the (Metrics) Explorer will be recorded. OpenAI keeps these records, and you can share your conversations via a link. Refer to OpenAI's user privacy and data security policies for more information."
+      },
+      {
+        "question": "Will my conversations and uploaded files be used for training DORA the (Metrics) Explorer?",
+        "answer": "Yes, if PlusNarrative (Pty) Ltd selected \"Use conversation data in your GPT to improve our models\" (in the GPTs Configure pages of Additional Settings), it means your conversations will be used for training and will influence this GPT AI agent."
+      }
+    ],
+    "reviews": [],
+    "try_gpt_link": "https://chat.openai.com/g/g-7nKpKyYPb?utm_source=gptsapp.io"
+  },
+  {
+    "name": "DevCraft Expert",
+    "author": "eservicedigital.com",
+    "rating": "0.0",
+    "rating_count": "N/A",
+    "rating_max": "5",
+    "review_count": 0,
+    "chat_count": 14,
+    "features": [
+      "✓ Browsing",
+      "✓ DALLE•E"
+    ],
+    "description": "Master in programming, software development, and software usage assistance.",
+    "tags": [
+      "software development",
+      "debugging",
+      "assistance",
+      "programming",
+      "restful api"
+    ],
+    "release_date": "December 20,2023",
+    "category": "Other",
+    "update_info": {
+      "GPT Updated": "2023-12-20T17:29:34+00:00",
+      "Updated ": "2024-04-20T19:36:47+00:00"
+    },
+    "capabilities": [
+      {
+        "capability": "Web Browsing",
+        "function": "Real-Time Access and search the internet for information, articles, and data.",
+        "tools": "Browser"
+      },
+      {
+        "capability": "DALLE•E",
+        "function": "Generate unique images based on textual descriptions provided.",
+        "tools": "Dalle"
+      }
+    ],
+    "share_recipient": {
+      "OpenAI‘s GPT Store": "Public"
+    },
+    "official_rating": "N/A",
+    "number_of_ratings": "N/A",
+    "conversation_starters": [
+      "Can you help me debug this Python code?",
+      "What's the best practice for implementing a RESTful API?",
+      "I'm new to programming, can you explain loops?",
+      "How do I optimize this SQL query?"
+    ],
+    "faqs": [
+      {
+        "question": "Is DevCraft Expert free?",
+        "answer": "Currently, this GPTs is not free and is available exclusively to ChatGPT Plus users."
+      },
+      {
+        "question": "Are there any limitations in using DevCraft Expert?",
+        "answer": "Yes, besides requiring a ChatGPT Plus membership, if you use the GPT-4 model (with DALL·E, browsing, and data analysis), the limit is 25 'GPTs' messages / 3 hours, More limited than normal 40 GPT4 responses per 3 hours, \n\nThe enterprise version of ChatGPT is,  100 GPT-4 messages per 3 hours."
+      },
+      {
+        "question": "Who can use this custom ChatGPT?",
+        "answer": "DevCraft Expert is publicly available in the upcoming OpenAI's GPT Store, making it widely accessible to anyone interested in using this advanced ChatGPT."
+      },
+      {
+        "question": "Who owns DevCraft Expert?",
+        "answer": "DevCraft Expert is owned by eservicedigital.com, who has also created 8 other GPTs, namely Inventive Genius, MarketDynamo, Business Buddy, Technotron, Mystic Sage."
+      },
+      {
+        "question": "Does DevCraft Expert have its own knowledge base?",
+        "answer": "no, we found no file uploaded. You can check the function section to see if there are other unique features. If not, this GPTs is just a simple prompt engineering, and its knowledge base is synchronized with the general ChatGPT, latest training up to April 2023."
+      },
+      {
+        "question": "Can I modify/edit this GPTs?",
+        "answer": "No, only eservicedigital.com can edit this GPTs. They can configure and update GPTs through GPT Builder at https://chat.openai.com/gpts/editor/g-aKKAOIPj0. The last modification date of DevCraft Expert was 2023-12-20 17:29:34 UTC."
+      },
+      {
+        "question": "Will my conversations with DevCraft Expert be recorded?",
+        "answer": "Yes, conversations with DevCraft Expert will be recorded. OpenAI keeps these records, and you can share your conversations via a link. Refer to OpenAI's user privacy and data security policies for more information."
+      },
+      {
+        "question": "Will my conversations and uploaded files be used for training DevCraft Expert?",
+        "answer": "Yes, if eservicedigital.com selected \"Use conversation data in your GPT to improve our models\" (in the GPTs Configure pages of Additional Settings), it means your conversations will be used for training and will influence this GPT AI agent."
+      }
+    ],
+    "reviews": [],
+    "try_gpt_link": "https://chat.openai.com/g/g-aKKAOIPj0?utm_source=gptsapp.io"
+  },
+  {
+    "name": "Code Mapper",
+    "author": "Smart Idima",
+    "rating": "0.0",
+    "rating_count": "N/A",
+    "rating_max": "5",
+    "review_count": 0,
+    "chat_count": 10,
+    "features": [
+      "✓ DALLE•E",
+      "✓ Browsing",
+      "✓ Data Analysis"
+    ],
+    "description": "Thoroughly analyzes complete code for precise GIS software development advice.",
+    "tags": [
+      "optimization",
+      "gis software",
+      "programming",
+      "code analysis",
+      "software development"
+    ],
+    "release_date": "January 11,2024",
+    "category": "Programming",
+    "update_info": {
+      "GPT Updated": "2024-01-11T19:16:24+00:00",
+      "Updated ": "2024-04-15T11:14:30+00:00"
+    },
+    "capabilities": [
+      {
+        "capability": "DALLE•E",
+        "function": "Generate unique images based on textual descriptions provided.",
+        "tools": "Dalle"
+      },
+      {
+        "capability": "Web Browsing",
+        "function": "Real-Time Access and search the internet for information, articles, and data.",
+        "tools": "Browser"
+      },
+      {
+        "capability": "Code Interpreter / Data Analysis",
+        "function": "Execute Python code for automation, calculations, and data analysis.",
+        "tools": "Python"
+      }
+    ],
+    "share_recipient": {
+      "OpenAI‘s GPT Store": "Public"
+    },
+    "official_rating": "N/A",
+    "number_of_ratings": "N/A",
+    "conversation_starters": [
+      "Can you review this full script for potential improvements?",
+      "What does my entire code reveal about the system's efficiency?",
+      "Please analyze the complete code for GIS functionality integration.",
+      "How can I optimize the entire codebase for my GIS project?"
+    ],
+    "faqs": [
+      {
+        "question": "What is Code Mapper?",
+        "answer": "Code Mapper is a custom ChatGPT and been described as \"Thoroughly analyzes complete code for precise GIS software development advice.\".\nTechnically, it's an advanced ChatGPT unlocked by OpenAI via user customization. You can refer to it as the Code Mapper AI Agent powered by GPT-4."
+      },
+      {
+        "question": "Is this GPTs free?",
+        "answer": "Currently, this GPTs is not free and is available exclusively to ChatGPT Plus users."
+      },
+      {
+        "question": "Are there any limitations in using Code Mapper?",
+        "answer": "Yes, besides requiring a ChatGPT Plus membership, if you use the GPT-4 model (with DALL·E, browsing, and data analysis), the limit is 25 'GPTs' messages / 3 hours, More limited than normal 40 GPT4 responses per 3 hours, \n\nThe enterprise version of ChatGPT is,  100 GPT-4 messages per 3 hours."
+      },
+      {
+        "question": "Who can use this custom ChatGPT?",
+        "answer": "Code Mapper is publicly available in the upcoming OpenAI's GPT Store, making it widely accessible to anyone interested in using this advanced ChatGPT."
+      },
+      {
+        "question": "Who owns Code Mapper?",
+        "answer": "Code Mapper is owned by Smart Idima, who has also created 2 other GPTs, namely GIS Dev Guru."
+      },
+      {
+        "question": "Does Code Mapper have its own knowledge base?",
+        "answer": "yes, we have found that Smart Idima uploaded 4 files. For specific information, you can check Knowledge."
+      },
+      {
+        "question": "Can I modify/edit this GPTs?",
+        "answer": "No, only Smart Idima can edit this GPTs. They can configure and update GPTs through GPT Builder at https://chat.openai.com/gpts/editor/g-xlx57rvVA. The last modification date of Code Mapper was 2024-01-11 19:16:24 UTC."
+      },
+      {
+        "question": "Will my conversations with Code Mapper be recorded?",
+        "answer": "Yes, conversations with Code Mapper will be recorded. OpenAI keeps these records, and you can share your conversations via a link. Refer to OpenAI's user privacy and data security policies for more information."
+      },
+      {
+        "question": "Will my conversations and uploaded files be used for training Code Mapper?",
+        "answer": "Yes, if Smart Idima selected \"Use conversation data in your GPT to improve our models\" (in the GPTs Configure pages of Additional Settings), it means your conversations will be used for training and will influence this GPT AI agent."
+      }
+    ],
+    "reviews": [],
+    "try_gpt_link": "https://chat.openai.com/g/g-xlx57rvVA?utm_source=gptsapp.io"
+  }
+]
