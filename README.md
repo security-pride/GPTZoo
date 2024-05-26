@@ -70,21 +70,34 @@ python gptzoo.py -analyze --tags "programming" "software guidance" --description
 The dataset is structured as follows:
 
 ```
+GPTZoo
 ├── automated_cli/
 │ ├── pycache/
+│ ├── data_analysis.py
 │ └── data_retrieval.py
 ├── crawling/
 │ ├── crawl_links.py
-│ └── crawl_metadata.py
+│ ├── crawl_metadata.py
+│ ├── links.txt
+│ └── try_gpt_links/
 ├── data_processing/
-│ ├── deduplicate.py
-│ └── handle_json.py
-├── metadata/
-├── result/
+│ ├── deduplication.py
+│ ├── standardization.py
+│ └── statistical_analysis/
+│ ├── chat_count/
+│ │ ├── chat_count.xlsx
+│ │ └── export_chat_count.py
+│ ├── description/
+│ │ ├── description.py
+│ │ ├── description.txt
+│ │ ├── wordcloud.pdf
+│ │ └── wordcloud.py
+│ ├── rating/
+│ └── tags/
+├── dataset/
 ├── gptzoo.py
 ├── requirements.txt
-├── search_results.xlsx
-└── test.py
+└── result/
 ```
 
 ## Contributing
