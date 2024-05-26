@@ -29,8 +29,8 @@ Ensure you have the following prerequisites installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/security-pride/GPTZoo-Dataset.git
-cd GPTZoo-Dataset
+git clone https://github.com/security-pride/GPTZoo.git
+cd GPTZoo
 ```
 
 Install the required Python packages:
