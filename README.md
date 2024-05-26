@@ -46,7 +46,7 @@ pip install -r requirements.txt
 The CLI supports keyword-based searching of the dataset. To use the CLI, navigate to the repository directory and run:
 
 ```bash
-python gptzoo.py --help
+python gptzoo.py -help
 ```
 
 #### Data Retrieval
