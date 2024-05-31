@@ -136,6 +136,10 @@ The collection of GPTZoo dataset relates to additional works performed by our re
   year={2024}
 }
 
-# GPTZoo bib citation here
-```
+@article{hou2024gptzoo,
+  title={GPTZoo: A Large-scale Dataset of GPTs for the Research Community},
+  author={Hou, Xinyi and Zhao, Yanjie and Wang, Shenao and Wang, Haoyu},
+  journal={arXiv preprint arXiv:2405.15630},
+  year={2024}
+}
 
