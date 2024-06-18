@@ -29,13 +29,8 @@ Ensure you have the following prerequisites installed:
 Clone the repository to your local machine:
 
 ```bash
-<<<<<<< HEAD
 git clone https://github.com/security-pride/GPTZoo.git
 cd GPTZoo
-=======
-git clone https://github.com/security-pride/GPTZoo-Dataset.git
-cd GPTZoo-Dataset
->>>>>>> 09b838041abb2e62b6f7558d2d6fddf81bd1b7fd
 ```
 
 Install the required Python packages:
@@ -51,11 +46,7 @@ pip install -r requirements.txt
 The CLI supports keyword-based searching of the dataset. To use the CLI, navigate to the repository directory and run:
 
 ```bash
-<<<<<<< HEAD
 python gptzoo.py -help
-=======
-python gptzoo.py --help
->>>>>>> 09b838041abb2e62b6f7558d2d6fddf81bd1b7fd
 ```
 
 #### Data Retrieval
@@ -71,11 +62,7 @@ python gptzoo.py -search --tags "programming" "software guidance" --description 
 Analyze specific subsets of the dataset:
 
 ```bash
-<<<<<<< HEAD
 python gptzoo.py -analyze --name "Unknown" --chat_count
-=======
-python gptzoo.py -analyze --tags "programming" "software guidance" --description "software development"
->>>>>>> 09b838041abb2e62b6f7558d2d6fddf81bd1b7fd
 ```
 
 ## Dataset Structure
@@ -85,7 +72,6 @@ The dataset is structured as follows:
 ```
 GPTZoo
 ├── automated_cli/
-<<<<<<< HEAD
 │      ├── data_analysis.py
 │      ├── data_retrieval.py
 │      └── help.py
@@ -114,31 +100,6 @@ GPTZoo
 │      ├── ...
 │      ├── meta_info_41.json
 │      └── meta_info_42.json
-=======
-│ ├── pycache/
-│ ├── data_analysis.py
-│ └── data_retrieval.py
-├── crawling/
-│ ├── crawl_links.py
-│ ├── crawl_metadata.py
-│ ├── links.txt
-│ └── try_gpt_links/
-├── data_processing/
-│ ├── deduplication.py
-│ ├── standardization.py
-│ └── statistical_analysis/
-│ ├── chat_count/
-│ │ ├── chat_count.xlsx
-│ │ └── export_chat_count.py
-│ ├── description/
-│ │ ├── description.py
-│ │ ├── description.txt
-│ │ ├── wordcloud.pdf
-│ │ └── wordcloud.py
-│ ├── rating/
-│ └── tags/
-├── dataset/
->>>>>>> 09b838041abb2e62b6f7558d2d6fddf81bd1b7fd
 ├── gptzoo.py
 ├── requirements.txt
 └── result/
@@ -155,35 +116,3 @@ We would like to acknowledge [GPTs App](https://gptsapp.io/) and the [OpenAI GPT
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Citation
-
-The collection of GPTZoo dataset relates to additional works performed by our research group. If you find GPTZoo useful, please consider citing our paper:
-
-```
-@article{zhao2024llm,
-  title={LLM App Store Analysis: A Vision and Roadmap},
-  author={Zhao, Yanjie and Hou, Xinyi and Wang, Shenao and Wang, Haoyu},
-  journal={arXiv preprint arXiv:2404.12737},
-  year={2024}
-}
-
-@article{su2024gpt,
-  title={GPT Store Mining and Analysis},
-  author={Su, Dongxun and Zhao, Yanjie and Hou, Xinyi and Wang, Shenao and Wang, Haoyu},
-  journal={arXiv preprint arXiv:2405.10210},
-  year={2024}
-}
-
-<<<<<<< HEAD
-@article{hou2024gptzoo,
-  title={GPTZoo: A Large-scale Dataset of GPTs for the Research Community},
-  author={Hou, Xinyi and Zhao, Yanjie and Wang, Shenao and Wang, Haoyu},
-  journal={arXiv preprint arXiv:2405.15630},
-  year={2024}
-}
-=======
-# GPTZoo bib citation here
-```
-
->>>>>>> 09b838041abb2e62b6f7558d2d6fddf81bd1b7fd
