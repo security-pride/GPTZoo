@@ -141,9 +141,4 @@ The collection of GPTZoo dataset relates to additional works performed by our re
   author={Hou, Xinyi and Zhao, Yanjie and Wang, Shenao and Wang, Haoyu},
   journal={arXiv preprint arXiv:2405.15630},
   year={2024}
-<<<<<<< HEAD
 }
-=======
-}
-
->>>>>>> 088c8b0d240197feed0c7c4cde0e3f24b46d9500
