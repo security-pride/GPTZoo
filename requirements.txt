@@ -1,0 +1,6 @@
+pandas
+argparse
+requests
+beautifulsoup4
+python-dateutil
+humanfriendly

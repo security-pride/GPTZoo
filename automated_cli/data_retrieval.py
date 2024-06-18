@@ -10,7 +10,7 @@ def search(criteria):
             with open(os.path.join(dataset_dir, filename), 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 for instance in data:
-                    if all(any(keyword in instance.get(field, '') for keyword in keywords) for field, keywords in criteria.items()):
+                    if all(any(keyword in str(instance.get(field, '')).lower() for keyword in keywords) for field, keywords in criteria.items()):
                         results.append(instance)
 
     return results

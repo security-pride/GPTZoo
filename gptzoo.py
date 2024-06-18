@@ -2,6 +2,7 @@ import argparse
 import os
 import json
 from datetime import datetime
+import pandas as pd
 from automated_cli import data_retrieval, data_analysis, help
 
 def search_instances(criteria):
@@ -14,8 +15,12 @@ def search_instances(criteria):
     print(f'Search results saved to {filename}')
 
 def analyze_instances(criteria):
-    count = data_analysis.analyze(criteria)
-    print(f'Number of matching instances: {count}')
+    results = data_analysis.analyze(criteria)
+    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+    filename = f'result/analyze_results_{timestamp}.csv'
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    results.to_csv(filename, index=False)
+    print(f'Analysis results saved to {filename}')
 
 def main():
     parser = argparse.ArgumentParser(description="GPTZoo CLI")
@@ -24,6 +29,12 @@ def main():
     parser.add_argument('-help', action='store_true', help="Show help information")
     parser.add_argument('--tags', nargs='+', help="Tags to filter by")
     parser.add_argument('--description', nargs='+', help="Description keywords to filter by")
+    parser.add_argument('--name', nargs='+', help="Name keywords to filter by")
+    parser.add_argument('--author', nargs='+', help="Author keywords to filter by")
+    parser.add_argument('--rating', nargs='+', help="Rating keywords to filter by")
+    parser.add_argument('--chat_count', action='store_true', help="Chat count to filter by")
+    parser.add_argument('--release_date', action='store_true', help="Release date to filter by")
+    parser.add_argument('--category', action='store_true', help="Category to filter by")
 
     args = parser.parse_args()
 
@@ -35,7 +46,19 @@ def main():
             criteria['tags'] = args.tags
         if args.description:
             criteria['description'] = args.description
-        
+        if args.name:
+            criteria['name'] = args.name
+        if args.author:
+            criteria['author'] = args.author
+        if args.rating:
+            criteria['rating'] = args.rating
+        if args.chat_count:
+            criteria['chat_count'] = args.chat_count
+        if args.release_date:
+            criteria['release_date'] = args.release_date
+        if args.category:
+            criteria['category'] = args.category
+
         if args.search:
             search_instances(criteria)
         elif args.analyze:
