@@ -62,7 +62,7 @@ python gptzoo.py -search --tags "programming" "software guidance" --description 
 Analyze specific subsets of the dataset:
 
 ```bash
-python gptzoo.py -analyze --tags "programming" "software guidance" --description "software development"
+python gptzoo.py -analyze --name "Unknown" --chat_count
 ```
 
 ## Dataset Structure
